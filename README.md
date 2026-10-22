@@ -25,3 +25,4 @@ python manage.py runserver
 ```
 
 make changes
+test
